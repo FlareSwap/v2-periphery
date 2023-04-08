@@ -216,10 +216,10 @@
     "@ethersproject/properties" "^5.7.0"
     "@ethersproject/strings" "^5.7.0"
 
-"@flareswap/v2-core@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@flareswap/v2-core/-/v2-core-4.0.0.tgz#693dbf91e9b04ed649d8926425851fde39f5558d"
-  integrity sha512-7Ofc9stO+LLiX2KxEAvwG4D0FpEqZ9Xx9B/rZOs71GB4a2mReGLSgUy7X20mhmzrSC5gNulgQvBCaFDjExDAxw==
+"@flareswap/v2-core@^4.0.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@flareswap/v2-core/-/v2-core-4.3.0.tgz#3a0b841368b8effac9d8183c87ca141d27db3ea9"
+  integrity sha512-HNB3Bxsp6KXVL8h7mdC+WSfEa4gBCQm/5QOueu51Lyy6n1E1GiPmXtrFeKW0HI+80fN5iOi2uRjuS2AA3JyFuw==
 
 "@resolver-engine/core@^0.3.3":
   version "0.3.3"
@@ -374,7 +374,7 @@
   dependencies:
     "@types/node" "*"
 
-"@uniswap/lib@4.0.1-alpha":
+"@uniswap/lib@^4.0.1-alpha":
   version "4.0.1-alpha"
   resolved "https://registry.yarnpkg.com/@uniswap/lib/-/lib-4.0.1-alpha.tgz#2881008e55f075344675b3bca93f020b028fbd02"
   integrity sha512-f6UIliwBbRsgVLxIaBANF6w09tYqc6Y/qXdsrbEmXHyFA7ILiKrIwRFXe1yOg8M3cksgVsO9N7yuL2DdCGQKBA==
