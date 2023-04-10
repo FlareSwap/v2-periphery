@@ -15,7 +15,7 @@
     "contracts"
   ],
   "dependencies": {
-    "@flareswap/v2-core": "^4.0.0",
+    "@flareswap/v2-core": "^4.3.0",
     "@uniswap/lib": "^4.0.1-alpha"
   },
   "devDependencies": {
